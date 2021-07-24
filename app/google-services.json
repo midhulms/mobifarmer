@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852800033584",
+    "firebase_url": "https://mobifarmer3.firebaseio.com",
+    "project_id": "mobifarmer3",
+    "storage_bucket": "mobifarmer3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852800033584:android:1f065c79ea433f72",
+        "android_client_info": {
+          "package_name": "com.example.mobifarmer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852800033584-406qe8n0c79kiv1u8olriruegbndb13e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDenGR8CQG6TSJLsjFQxeZ8Rev6Orb7cqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852800033584-406qe8n0c79kiv1u8olriruegbndb13e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
